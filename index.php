@@ -53,10 +53,6 @@
 <?php
 
 ########## Google Settings.. Client ID, Client Secret from https://cloud.google.com/console #############
-$google_client_id 		= '622778754398-lrch3lp9ft1q3ohndv78g77v8rm3dfjq.apps.googleusercontent.com';
-$google_client_secret 	= 'AAo2HYBWY9OqeimZSo_ss9mu';
-$google_redirect_url 	= 'http://theverse.io'; //path to your script
-$google_developer_key 	= 'AIzaSyBuv8HL5R1_x2_j30UvTXQC8JbIq_asYEo';
 
 ########## MySql details (Replace with yours) #############
 $db_username = "root"; //Database Username
