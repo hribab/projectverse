@@ -56,9 +56,9 @@
 
 ########## MySql details (Replace with yours) #############
 $db_username = "root"; //Database Username
-$db_password = "V3r5e"; //Database Password
+$db_password = ""; //Database Password
 $hostname = "localhost"; //Mysql Hostname
-$db_name = 'verse'; //Database Name
+$db_name = ''; //Database Name
 ###################################################################
 
 //include google api files
