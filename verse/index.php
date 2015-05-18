@@ -149,7 +149,7 @@ $("#remverse").click(function() {
 //	echo $mail;
 
 
-$db = new PDO('mysql:host=localhost;dbname=verse;charset=utf8', 'root', 'V3r5e');
+$db = new PDO('mysql:host=localhost;dbname=verse;charset=utf8', '****', '*****');
 
 	
 
